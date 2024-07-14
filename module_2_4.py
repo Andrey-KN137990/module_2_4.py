@@ -15,14 +15,3 @@ for i in numbers:
             not_primes.append(i)
 print(primes)
 print(not_primes)
-
-
-
-
-
-
-
-
-#for i in range(1, 11):
-#    for o in range(1, 11):
-#        print(f'{i} x {o} = {i * o}')
